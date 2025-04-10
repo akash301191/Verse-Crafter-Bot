@@ -27,7 +27,7 @@ verse-crafter-bot/
   Add an artistic twist by having your poem emulate the style of legendary poets like Shakespeare, Frost, Angelou, and others.
 
 - **Markdown-Formatted Output**  
-  Each poem begins with a title (e.g., `**The Rising Fog**`) and is optionally followed by an interpretation section.
+  Each poem begins with a title (e.g., `The Rising Fog`) and is optionally followed by an interpretation section.
 
 - **Instant Downloads**  
   Save your poem and its explanation as a `.txt` file with a single click.
