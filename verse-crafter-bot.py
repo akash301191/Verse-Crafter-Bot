@@ -199,7 +199,7 @@ def generate_poem(openai_model, user_preferences: dict) -> str:
         instructions.append("You must generate a poetic title and place it in markdown as: ### <Title>")
 
     if wants_explanation:
-        instructions.append("After the poem, add a short explanation (2–4 lines) under the markdown heading '### 📖 Explanation'.")
+        instructions.append("After the poem, add a short explanation (6-8 lines) under the markdown heading '### 📖 Explanation'.")
     else:
         instructions.append("Do not include any explanation. Only return the poem with its title.")
 
